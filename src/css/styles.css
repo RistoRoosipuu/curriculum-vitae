@@ -1,0 +1,17 @@
+.bg-black {
+    background: #000;
+    color:#fff;
+}
+
+.port-item {
+    width: 30%;
+}
+
+.port-item.fas {
+    font-size: 2em;
+}
+
+.port-item:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
