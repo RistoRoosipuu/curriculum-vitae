@@ -3,15 +3,22 @@
     color:#fff;
 }
 
+.bg-blueish {
+    background: #2F6689;
+}
+
+.bg-light-yellow {
+    background: #EBF4B2;
+}
+
 .port-item {
     width: 30%;
 }
 
-.port-item.fas {
-    font-size: 2em;
-}
 
 .port-item:hover {
     opacity: 0.8;
     cursor: pointer;
 }
+
+
